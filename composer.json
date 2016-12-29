@@ -1,0 +1,16 @@
+{
+    "name": "pacificnm/pacificnm-action",
+    "description": "Provides action services and management",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Jaimie Garner",
+            "email": "pacificnm@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    	"php" : ">=5.5"
+    }
+}
